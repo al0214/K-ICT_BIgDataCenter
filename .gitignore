@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks,python
 
 /Utillization_of_big_data/Data
-
+/Deep_Learning_Basic/Data
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
